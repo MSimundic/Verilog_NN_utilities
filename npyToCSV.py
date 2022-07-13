@@ -3,7 +3,7 @@ from numpy import asarray, int8, load
 from numpy import savetxt
 from numpy import loadtxt
 
-name='weights_simple_binary_input'
+name='sequential_dense_MatMul'
 # load array
 data = load(name + '.npy')
 # print the array

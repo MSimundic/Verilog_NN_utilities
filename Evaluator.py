@@ -45,7 +45,7 @@ def PlotImage(image, title):
 g_command_format = f'python {sys.argv[0]} (model_path) (input_path)'
 
 
-model_path = "model_mnist_ocr_2.h5"
+model_path = "model_mnist_ocr.h5"
 
 
 
